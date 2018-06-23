@@ -1,0 +1,21 @@
+.groove {border-style: groove;
+    margin-left: 30vh;
+    margin-top: 4vh;
+    height: 77vh;
+    width:130vh;
+    }
+    .groove1 {border-style: groove;
+        height: 16vh;
+        width:120vh;
+        margin-left: 5vh;
+        
+        }
+    h3{
+        color: grey;
+    }
+    #button {
+        position: relative;
+     margin-top: 6vh;
+        margin-left: 90vh;
+        
+    }
